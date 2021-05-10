@@ -7,7 +7,7 @@ stm32f4_sysinit.o: \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/core_cm4.h \
  /home/mirmik/project/igris/compat/libc/include/stdint.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/types.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/types32.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/types32.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_version.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_compiler.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_gcc.h \
@@ -16,5 +16,5 @@ stm32f4_sysinit.o: \
  /home/mirmik/project/genos/arch/arm/armv7e-m/src/periph/regs/nvic.h \
  /home/mirmik/project/genos/arch/arm/armv7e-m/src/periph/regs/systick.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_rcc.h \
- /home/mirmik/project/igris/compat/libc/include/sys/cdefs.h \
+ /home/mirmik/project/igris/compat/posix/include/sys/cdefs.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_clockbus.h

@@ -2,16 +2,16 @@ perror.o: /home/mirmik/project/igris/compat/libc/stdio/perror.c \
  /home/mirmik/project/igris/compat/libc/include/stdio.h \
  /home/mirmik/project/igris/compat/libc/include/stdarg.h \
  /home/mirmik/project/igris/compat/posix/include/sys/types.h \
- /home/mirmik/project/igris/compat/libc/include/sys/cdefs.h \
+ /home/mirmik/project/igris/compat/posix/include/sys/cdefs.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/types.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/types32.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/size_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/clock_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/suseconds_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/time_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/timer_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/clockid_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/null.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/types32.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/size_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/clock_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/suseconds_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/time_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/timer_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/clockid_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/null.h \
  /home/mirmik/project/igris/compat/libc/include/string.h \
  /home/mirmik/project/igris/compat/libc/include/string_bsd.h \
  /home/mirmik/project/igris/compat/libc/include/errno.h \
@@ -20,8 +20,8 @@ perror.o: /home/mirmik/project/igris/compat/libc/stdio/perror.c \
  /home/mirmik/project/igris/compat/posix/include/sys/stat.h \
  /home/mirmik/project/igris/compat/libc/include/limits.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/limits.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/limits32.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/limits.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/limits32.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/limits.h \
  /home/mirmik/project/igris/compat/libc/include/stdint.h \
  /home/mirmik/project/igris/compat/libc/include/ctype.h \
  /home/mirmik/project/igris/compat/posix/include/time.h \
@@ -29,7 +29,7 @@ perror.o: /home/mirmik/project/igris/compat/libc/stdio/perror.c \
  /home/mirmik/project/igris/compat/posix/include/sys/select.h \
  /home/mirmik/project/igris/compat/posix/include/sys/uio.h \
  /home/mirmik/project/igris/compat/libc/include/stddef.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/wchar_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/ptrdiff_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/wchar_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/ptrdiff_t.h \
  /home/mirmik/project/igris/compat/posix/include/posix_environ.h \
  /home/mirmik/project/igris/compat/posix/include/getopt.h

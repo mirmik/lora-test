@@ -1,7 +1,7 @@
 stm32_arch.o: /home/mirmik/project/genos/arch/arm/stm32/src/stm32_arch.c \
  /home/mirmik/project/genos/src/hal/arch.h \
  /home/mirmik/project/igris/./igris/compiler.h \
- /home/mirmik/project/igris/compat/libc/include/sys/cdefs.h \
+ /home/mirmik/project/igris/compat/posix/include/sys/cdefs.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/periph/map.h \
  /home/mirmik/project/genos/arch/arm/stm32/st-device/stm32xxxx.h \
  /home/mirmik/project/genos/arch/arm/stm32/st-device/stm32f4xx.h \
@@ -9,7 +9,7 @@ stm32_arch.o: /home/mirmik/project/genos/arch/arm/stm32/src/stm32_arch.c \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/core_cm4.h \
  /home/mirmik/project/igris/compat/libc/include/stdint.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/types.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/types32.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/types32.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_version.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_compiler.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_gcc.h \
@@ -24,10 +24,10 @@ stm32_arch.o: /home/mirmik/project/genos/arch/arm/stm32/src/stm32_arch.c \
  /home/mirmik/project/genos/arch/arm/armv7e-m/src/asm/irq.h \
  /home/mirmik/project/igris/compat/libc/include/inttypes.h \
  /home/mirmik/project/igris/compat/libc/include/stddef.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/null.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/size_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/wchar_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/ptrdiff_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/null.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/size_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/wchar_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/ptrdiff_t.h \
  /home/mirmik/project/genos/src/systime/systime.h \
  /home/mirmik/project/genos/arch/arm/src/asm/delay.h \
  /home/mirmik/project/genos/src/hal/irqtable.h \

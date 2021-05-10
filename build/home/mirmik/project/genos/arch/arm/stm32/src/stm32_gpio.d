@@ -1,6 +1,6 @@
 stm32_gpio.o: /home/mirmik/project/genos/arch/arm/stm32/src/stm32_gpio.c \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_gpio.h \
- /home/mirmik/project/igris/compat/libc/include/sys/cdefs.h \
+ /home/mirmik/project/igris/compat/posix/include/sys/cdefs.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/periph/map.h \
  /home/mirmik/project/genos/arch/arm/stm32/st-device/stm32xxxx.h \
  /home/mirmik/project/genos/arch/arm/stm32/st-device/stm32f4xx.h \
@@ -8,7 +8,7 @@ stm32_gpio.o: /home/mirmik/project/genos/arch/arm/stm32/src/stm32_gpio.c \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/core_cm4.h \
  /home/mirmik/project/igris/compat/libc/include/stdint.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/types.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/types32.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/types32.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_version.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_compiler.h \
  /home/mirmik/project/genos/arch/arm/cortex-m4/include/cmsis_gcc.h \

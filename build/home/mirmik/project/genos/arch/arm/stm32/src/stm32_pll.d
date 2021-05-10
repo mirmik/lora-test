@@ -2,8 +2,8 @@ stm32_pll.o: /home/mirmik/project/genos/arch/arm/stm32/src/stm32_pll.c \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_pll.h \
  /home/mirmik/project/igris/compat/libc/include/stdint.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/types.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/types32.h \
- /home/mirmik/project/igris/compat/libc/include/sys/cdefs.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/types32.h \
+ /home/mirmik/project/igris/compat/posix/include/sys/cdefs.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_clockbus.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/periph/map.h \
  /home/mirmik/project/genos/arch/arm/stm32/st-device/stm32xxxx.h \

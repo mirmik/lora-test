@@ -1,10 +1,10 @@
 stm32_clockbus.o: \
  /home/mirmik/project/genos/arch/arm/stm32/src/stm32_clockbus.c \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_clockbus.h \
- /home/mirmik/project/igris/compat/libc/include/sys/cdefs.h \
+ /home/mirmik/project/igris/compat/posix/include/sys/cdefs.h \
  /home/mirmik/project/igris/compat/libc/include/stdint.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/types.h \
- /home/mirmik/project/igris/compat/libc/include/asm-generic/types32.h \
+ /home/mirmik/project/igris/compat/posix/include/asm-generic/types32.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_systick.h \
  /home/mirmik/project/genos/arch/arm/stm32/include/periph/map.h \
  /home/mirmik/project/genos/arch/arm/stm32/st-device/stm32xxxx.h \
@@ -21,8 +21,16 @@ stm32_clockbus.o: \
  /home/mirmik/project/genos/src/systime/systime.h \
  /home/mirmik/project/igris/compat/libc/include/inttypes.h \
  /home/mirmik/project/igris/compat/libc/include/stddef.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/null.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/size_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/wchar_t.h \
- /home/mirmik/project/igris/compat/libc/include/libc/defines/ptrdiff_t.h \
- /home/mirmik/project/genos/arch/arm/src/asm/delay.h
+ /home/mirmik/project/igris/compat/posix/include/defines/null.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/size_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/wchar_t.h \
+ /home/mirmik/project/igris/compat/posix/include/defines/ptrdiff_t.h \
+ /home/mirmik/project/genos/arch/arm/src/asm/delay.h \
+ /home/mirmik/project/igris/./igris/util/bug.h \
+ /home/mirmik/project/igris/./igris/compiler.h \
+ /home/mirmik/project/igris/./igris/util/location.h \
+ /home/mirmik/project/igris/./igris/dprint.h \
+ /home/mirmik/project/igris/./igris/dprint/dprint.h \
+ /home/mirmik/project/igris/./igris/util/macro.h \
+ /home/mirmik/project/igris/compat/libc/include/stdbool.h \
+ /home/mirmik/project/igris/./igris/util/bits.h
